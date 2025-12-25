@@ -1,2 +1,1 @@
-var x = 10
-console.log("Hello World")
+export const example = 'Hello World';
